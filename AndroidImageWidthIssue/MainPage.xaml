@@ -16,7 +16,7 @@
 
                     <BindableLayout.ItemTemplate>
                         <DataTemplate>
-                                <Image HeightRequest="220" WidthRequest="220"
+                                <Image HeightRequest="220"
                                        Source="{Binding .}"/>
                         </DataTemplate>
                     </BindableLayout.ItemTemplate>
